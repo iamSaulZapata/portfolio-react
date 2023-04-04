@@ -8,7 +8,7 @@ function App() {
 			<Header />
 			<main>
 				<header className="font-extrabold text-xl ">
-					Welcome to my portfolio site!
+					Welcome to my portfolio site !
 				</header>
 			</main>
 			<nav>
